@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.dwgbak
+*.gh.bak
+out/
+.DS_Store
