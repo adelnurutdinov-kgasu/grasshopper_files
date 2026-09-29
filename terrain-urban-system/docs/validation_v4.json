@@ -1,0 +1,39 @@
+{
+  "states": 73,
+  "errors": [],
+  "invalid": [],
+  "roads": [
+    1
+  ],
+  "green_counts": [
+    20,
+    21,
+    22
+  ],
+  "tree_counts": [
+    112,
+    115
+  ],
+  "building_counts": [
+    9
+  ],
+  "green_area_m2": [
+    3311,
+    5309
+  ],
+  "pedestrian": {
+    "mesh_counts": [
+      1
+    ],
+    "invalid": [],
+    "errors": []
+  },
+  "gif": {
+    "frames": 468,
+    "duration_ms": 39000,
+    "size": [
+      1080,
+      608
+    ]
+  }
+}
