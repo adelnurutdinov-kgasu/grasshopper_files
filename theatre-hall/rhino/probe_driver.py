@@ -1,5 +1,5 @@
 #! python 3
-# Скрипт для компонента Python 3 Script в definition/original/theatre_hall.gh.
+# Скрипт для компонента Python 3 Script в definition/theatre_hall_blocks.gh.
 # Читает theatre_states.json, по очереди применяет состояния (масштаб кривых Rhino по X,
 # ширина места в обоих кластерах, ползунки рёбер) и после каждого пересчёта пишет theatre_st_<tag>.json.
 # Счётчик хранится в scriptcontext.sticky['ti']; чтобы прогнать заново — удалить ключ 'ti'.
